@@ -1,16 +1,12 @@
-### Hi there 👋
 
-<!--
-**RyderForReal/RyderForReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey,
+I'm Ryder, a Minecraft server owner, developer (in progress) and YouTuber.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socials
+YouTube: https://ryderg.co/yt
+Discord: https://ryderg.co/discord
+## Where you can find my code
+I primarily use a self hosted GitLab installation, you can find it at https://gitlab.ryderg.net.
+## My services
+I offer website setups (installing a popular CMS, setting up the database, etc). You can purchase a WordPress setup at https://www.fiverr.com/rgnservices/set-up-your-wordpress-website.
+Need a more custom solution? Contact me via email: ryder [ at ] ryderg [ dot] net.
