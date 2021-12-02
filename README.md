@@ -1,6 +1,6 @@
 
 # Hey,
-I'm Ryder, a Minecraft server owner, developer (in progress) and YouTuber.
+I'm RyderForReal, a Minecraft server owner, developer and YouTuber.
 
 ## Socials
 YouTube: https://ryderg.co/yt
