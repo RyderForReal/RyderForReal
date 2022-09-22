@@ -1,9 +1,10 @@
 
-# Hey,
-I'm RyderForReal, a Minecraft server owner, developer and YouTuber.
+# Hello
+I'm RyderForReal, owner and CEO of RGN Development.
 
 ## Socials
-YouTube: https://ryderg.co/yt
+Matrix: @ryderforreal:ryderg.net
 Discord: https://ryderg.co/discord
-## Where you can find my code
+
+## Note
 I primarily use a self hosted GitLab installation, you can find it at https://gitlab.ryderg.net.
