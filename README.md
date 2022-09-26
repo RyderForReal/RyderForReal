@@ -1,10 +1,9 @@
 
 # Hello
-I'm RyderForReal, owner and CEO of RGN Development.
+I'm RyderForReal, owner of RGN and RGN Development.
 
 ## Socials
 Matrix: @ryderforreal:ryderg.net
-Discord: https://ryderg.co/discord
 
 ## Note
-I primarily use a self hosted GitLab installation, you can find it at https://gitlab.ryderg.net.
+I primarily use a self-hosted GitLab and Gitea install, you can find them at https://gitlab.ryderg.net and https://git.rgn.dev.
